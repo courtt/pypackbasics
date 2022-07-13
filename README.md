@@ -11,4 +11,6 @@ pip install .
 - Python >= 3.6
 
 # Assignments
-Coming soon...
+- From an outside directory, run `python -m pypackbasics.otherpack --help` to run the `__main__.py` script
+- From the root directory of this project, run the single test case with `python -m unittest`
+- In `tests/test_basic.py`, write another test case and make sure it passes
